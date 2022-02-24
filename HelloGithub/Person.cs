@@ -12,6 +12,6 @@ namespace HelloGithub
 
         public int Age { get; set; }
         
-        public string Job {get;set;
+        public string Job { get; set; }
     }
 }
