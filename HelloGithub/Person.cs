@@ -15,5 +15,9 @@ namespace HelloGithub
         public string Job { get; set; }
         
         public DateTime BirthDate {get;set;}
+
+        public string MotherName { get; set; }
+
+        public bool HaveGlasses { get; set; }
     }
 }
