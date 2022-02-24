@@ -19,9 +19,5 @@ namespace HelloGithub
         public string MotherName { get; set; }
 
         public bool HaveGlasses { get; set; }
-
-        public int Weight { get; set; }
-
-
     }
 }
